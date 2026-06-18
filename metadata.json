@@ -1,0 +1,6 @@
+{
+  "name": "Brew Inn Cafe & Brand Strategy Hub",
+  "description": "Interactive local consumer website for Brew Inn Cafe paired with an interactive Competitive Brand Strategy and KPI Dashboard benchmarking against Blue Tokai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
